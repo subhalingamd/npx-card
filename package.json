@@ -1,0 +1,30 @@
+{
+  "name": "subhalingamd",
+  "version": "1.0.0",
+  "description": "Connect with me directly from Command Line Interface",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/subhalingamd/npx-card.git"
+  },
+  "bin": {
+    "subhalingamd": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js",
+    "pub": "npm version patch & npm publish"
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "console-clear": "^1.1.1",
+    "inquirer": "^7.3.2",
+    "open": "^7.0.4"
+  },
+  "keywords": [
+    "subhalingamd",
+    "npx-card"
+  ],
+  "author": "Subhalingam D <subhalingam.d@gmail.com>",
+  "license": "MIT"
+}
