@@ -1,7 +1,8 @@
 # npx-card
 
-**This my NPX card and you can know more/connect with me directly from Command Line Interface.**
+![npm version](https://img.shields.io/npm/v/subhalingamd)
 
+**This is my NPX card. You can know more/connect with me directly from Command Line Interface.**
 
 Open Terminal (or any CLI) and just hit...
 ```bash
@@ -9,6 +10,9 @@ npx subhalingamd
 ```
 and observe what happens next... it's as simple as that!
 
+
+#### Screenshot
+![screenshot](https://raw.githubusercontent.com/subhalingamd/npx-card/main/demo.png)
 
 <hr/>
 
